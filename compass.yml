@@ -1,0 +1,14 @@
+name: webcommander
+id: ari:cloud:compass:eddcc978-84fc-448e-904c-0d4d7a6ccae6:component/dcebf165-b94d-4d6f-a806-e63f9a99f66a/e023bfba-c836-48ca-afc4-de4300f6112a
+description: Powerful, flexible, intuitive and most importantly simple. That is what a real automation solution should be. No matter how complicated the task is, we'd like to turn it into a single click. Is that possible? Not without webcommander :)
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+  - synced-with-jsm
+customFields: null
